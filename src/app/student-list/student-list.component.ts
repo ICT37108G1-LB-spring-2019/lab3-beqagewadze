@@ -9,13 +9,13 @@ export class StudentListComponent implements OnInit {
 
   x = [
     {
-      name: 'ზურა',
-      surname: 'ცინცაძე',
+      name: 'ბექა',
+      surname: 'გეწაძე',
       personalNumber: '12345678910'
     },
     {
-      name: 'ზურა2',
-      surname: 'ცინცაძე2',
+      name: 'ბექა2',
+      surname: 'გეწაძე2',
       personalNumber: '12345678919'
     },
   ]
